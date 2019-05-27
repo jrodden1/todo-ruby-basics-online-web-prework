@@ -11,8 +11,8 @@ def assign_variable(value)
   name = value
 end
 
-def argue
-
+def argue(arg1 = 'argumentative')
+agr1
 end
 
 def greeting
