@@ -1,7 +1,7 @@
 require 'pry'
 def division(num1, num2)
   quotient = 0
-  if num1 || num2 !== 0
+  if num1 || num2 != 0
     quotient = num1/num2
   end
   quotient
