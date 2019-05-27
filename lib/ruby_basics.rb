@@ -12,7 +12,7 @@ def assign_variable(value)
 end
 
 def argue(arg1 = 'argumentative')
-agr1
+arg1
 end
 
 def greeting
