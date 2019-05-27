@@ -15,7 +15,7 @@ def argue(arg1 = 'argumentative')
 arg1
 end
 
-def greeting(argument1, argument2 = 'blank')
+def greeting(argument1, argument2)
 
 end
 
